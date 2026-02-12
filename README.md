@@ -49,8 +49,9 @@ Código me ensinou construção.
 ## Linguagens mais usadas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoabyo&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoabyo&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
+
 
 ---
 
