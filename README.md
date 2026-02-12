@@ -29,9 +29,9 @@
 ## 📊 Painel de Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaoabyo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoabyo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaoabyo&theme=discord&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
+
 
 ---
 
