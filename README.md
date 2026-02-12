@@ -1,7 +1,7 @@
 <h1 align="center">💜 João Vitor Nunes de Quevedo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=800&lines=18+y.o+%7C+NOC+Telecom;HTML+%2B+CSS+%2B+JavaScript;Network+Mind+%2B+Dev+Soul;Always+Monitoring+%F0%9F%93%A1;Always+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=18+y.o+%7C+NOC+Telecom;HTML+%2B+CSS+%2B+JavaScript;Network+Mind+%2B+Dev+Soul;Always+Monitoring+%F0%9F%93%A1;Always+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 
 🚀 18 anos  
 🌐 NOC em empresa de Telecom  
-💻 Desenvolvedor focado em HTML, CSS e JavaScript  
-🧠 Infraestrutura + Frontend = combinação estratégica  
+💻 HTML | CSS | JavaScript  
+🎮 Jogador casual de League of Legends (main talvez secreto 👀)
 
-Transformo alertas em soluções.  
-Transformo ideias em interfaces.
+Infra + Dev = build sólido.
 
 ---
 
@@ -37,8 +36,8 @@ Transformo ideias em interfaces.
 ## 📊 Status do Sistema
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jaoabyo&show_icons=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&border_color=8A2BE2" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaoabyo&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&background=0d1117&border=8A2BE2&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jaoabyo&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Jaoabyo&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
@@ -46,24 +45,25 @@ Transformo ideias em interfaces.
 ## 📈 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoabyo&layout=compact&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117&border_color=8A2BE2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoabyo&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Monitoramento de Atividade
+## 🧠 Atividade
 
 <p align="center">
-  <img src="https://github-profile-activity-graph.vercel.app/graph?username=Jaoabyo&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaoabyo&theme=react-dark&hide_border=true&area=true&color=8A2BE2&line=8A2BE2&point=ffffff" />
 </p>
 
 ---
 
-## 💜 Filosofia Operacional
+## 🎮 Modo League Ativado
 
 ```bash
 while(alive){
   learn();
   build();
   improve();
+  queueRanked();
 }
