@@ -1,57 +1,56 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=João+Vitor+Nunes+de+Quevedo;Front-end+Developer;NOC+Telecom+Analyst;Building+the+web+in+purple" />
-</h1>
+<h1 align="center">João Vitor Nunes de Quevedo</h1>
+<p align="center">
+NOC Engineer • Web Developer • 18y
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E003E,100:8A2BE2&height=180&section=header&text=JAOABYO&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=22&center=true&vCenter=true&width=600&lines=Infraestrutura+e+Monitoramento;Desenvolvimento+Web+Moderno;Linux+%7C+Node.js+%7C+Vercel;Sempre+construindo+algo+novo" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## Sobre
 
-💜 18 anos  
-📡 NOC em Telecom  
-💻 HTML • CSS • JavaScript  
-🚀 Criando sistemas e explorando novas ideias  
+Atuo no departamento de NOC em uma empresa de telecom, com foco em monitoramento, análise de incidentes e infraestrutura de rede.
+
+Paralelamente, desenvolvo aplicações web com atenção em performance, organização de código e evolução contínua.
 
 ---
 
-## ⚙️ Stack Principal
+## Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,linux,vercel,git,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 Painel de Estatísticas
+## Painel de Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jaoabyo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jaoabyo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaoabyo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoabyo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## Sequência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaoabyo&theme=midnight-purple&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jaoabyo&theme=midnight-purple&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## Mentalidade
 
-<p align="center">
-  <a href="https://github.com/Jaoabyo">
-    <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+• Infra primeiro, depois código  
+• Performance importa  
+• Automação sempre que possível  
+• Deploy rápido, rollback mais rápido ainda  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:2E003E&height=120&section=footer" />
+  <i>Building systems by day. Building ideas by night.</i>
 </p>
