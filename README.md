@@ -29,7 +29,8 @@
 ## 📊 Painel de Estatísticas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaoabyo&theme=discord&no-frame=true&no-bg=true&row=1&column=6" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaoabyo&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaoabyo&theme=github_dark" />
 </p>
 
 
