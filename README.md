@@ -9,11 +9,11 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-💜 18 anos  
-📡 NOC em Telecom  
-💻 HTML • CSS • JavaScript • Node.js  
+💜 19 anos  
+ NOC em Telecom  
+ HTML • CSS • JavaScript • Node.js  
 🐧 Linux • Deploy com Vercel  
 🚀 Criando sistemas e explorando novas ideias  
 
