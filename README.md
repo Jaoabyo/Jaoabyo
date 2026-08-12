@@ -12,8 +12,8 @@
 ## Sobre mim
 
 💜 19 anos  
- NOC em Telecom  
- HTML • CSS • JavaScript • Node.js  
+ -NOC em Telecom & Analista E Desenvolvedor De sistemas
+ -HTML • CSS • JavaScript • Node.js  
 🐧 Linux • Deploy com Vercel  
 🚀 Criando sistemas e explorando novas ideias  
 
