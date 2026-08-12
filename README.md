@@ -12,12 +12,10 @@
 ## Sobre mim
 
   💜 19 anos  
-  NOC em Telecom & Dev system
-🐧 Linux • Deploy com Vercel 
-🛠️ HTML • CSS • JavaScript • Node.js  
-🐧 Linux • Deploy com Vercel  
-🚀 Criando sistemas e explorando novas ideias  
-
+  🐧 Linux • Deploy com Vercel  
+  🚀 Criando sistemas e explorando novas ideias  
+  🛠️ HTML • CSS • JavaScript • Node.js  
+  🛜  NOC and Dev system
 ---
 
 ## ⚙️ Stack Principal
